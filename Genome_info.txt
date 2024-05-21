@@ -1,0 +1,41 @@
+Accession	GCA_003008415.2	GCA_003008475.2	GCA_014191595.1	GCA_027587255.1	GCA_037029465.1	GCF_000422365.1	GCF_019904215.1
+Organism	Mesoflavibacter sp. HG96	Mesoflavibacter sp. HG37	Mesoflavibacter zeaxanthinifaciens subsp. sabulilitoris	Mesoflavibacter profundi	Mesoflavibacter sp. CH_XMU1404-2	Mesoflavibacter zeaxanthinifaciens DSM 18436	Mesoflavibacter sp. SCSIO 43206
+strain	HG96	HG37	CECT 8597	MTRN7	CH_XMU1404-2	DSM 18436	SCSIO 43206
+collection_date	2015-12	2015-12	missing	2016-01	2018-12-30	2005-07-27	2018-10
+depth	300m	30m	missing	8727 m	missing	missing	missing
+env_biome	marine biome	marine biome	missing	missing	missing	missing	missing
+env_feature	sea	sea	missing	missing	missing	missing	missing
+env_material	sea water	sea water	missing	missing	missing	missing	missing
+geo_loc_name	Pacific Ocean: Western Pacific Ocean	Pacific Ocean: Western Pacific Ocean	missing	Pacific Ocean: Mariana Trench	not applicable	missing	China: Hainan Island
+isol_growth_condt	marine broth at 35 centigrade	marine broth at 35 centigrade	missing	missing	missing	17276025	https://doi.org/10.1007/s11430-019-9388-3
+lat_lon	8 N 132 E	1.2 N 130 E	missing	missing	missing	35.30038 N 139.4999 E	18.24 N 109.36 E
+num_replicons	not applicable	not applicable	missing	missing	missing	missing	1
+ref_biomaterial	not applicable	not applicable	missing	missing	missing	DSM 18436	https://doi.org/10.1007/s11430-019-9388-3
+Type Strain	missing	missing	missing	missing	missing	Yes	missing
+env_broad_scale	missing	missing	missing	missing	missing	missing	ENVO:01000320
+type-material	missing	missing	type strain of Mesoflavibacter sabulilitoris	missing	missing	type strain of Mesoflavibacter zeaxanthinifaciens	missing
+sample_type	missing	missing	missing	cell culture	cell culture	missing	missing
+GOLD Stamp ID	missing	missing	missing	missing	missing	Gi11673	missing
+Gram Staining	missing	missing	missing	missing	missing	Gram-	missing
+project_name	missing	missing	missing	missing	missing	Mesoflavibacter zeaxanthinifaciens DSM 18436	missing
+biome	missing	missing	missing	missing	missing	missing	missing
+country	missing	missing	missing	missing	missing	Japan	missing
+Temperature Range	missing	missing	missing	missing	missing	Mesophile	missing
+environment	missing	missing	missing	missing	missing	Sea water; Aquatic; Marine	missing
+pH	missing	missing	missing	missing	missing	5.5-11.0	missing
+material	missing	missing	missing	missing	missing	missing	missing
+isolation_source	missing	missing	missing	deep seawater	missing	missing	missing
+sub_species	missing	missing	sabulilitoris	missing	missing	missing	missing
+Sporulation	missing	missing	missing	missing	missing	Nonsporulating	missing
+Isolation Site	missing	missing	missing	missing	missing	Shallow seawater sample	missing
+rel_to_oxygen	missing	missing	missing	missing	missing	aerobe	missing
+feature	missing	missing	missing	missing	missing	missing	missing
+Cell Shape	missing	missing	missing	missing	missing	Rod-shaped	missing
+Motility	missing	missing	missing	missing	missing	Motile	missing
+Temperature Optimum	missing	missing	missing	missing	missing	35-37 C	missing
+host	missing	missing	not applicable	missing	Prochlorococcus	missing	Galaxea fascicularis
+note	missing	missing	missing	missing	XMU1404_HLII	missing	missing
+culture-collection	missing	missing	missing	missing	missing	DSM:18436	missing
+Phenotypes	missing	missing	missing	missing	missing	Gliding; Catalase positive	missing
+env_local_scale	missing	missing	missing	missing	missing	missing	ENVO:01000145
+env_medium	missing	missing	missing	missing	missing	missing	ENVO:00000150
